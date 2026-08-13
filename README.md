@@ -1,6 +1,10 @@
 # React + TypeScript + Vite
 
-This is a template created on React for a trading site, using hooks, css variables, components, props,
-a form functional using getform.id
+This is a React template for a trading site using hooks, CSS variables, components, props and a functional form using getForm.id.
 
-Started at: 06:20 am - 13.08.26 /////// Finished:
+Started at: 06:20 am - 13.08.26 /////// Finish: 08:53 am -. 13.08.26
+
+---
+
+Coding experiment – completed! Four days in a row! Three more to go.
+Let's wrap it up!
